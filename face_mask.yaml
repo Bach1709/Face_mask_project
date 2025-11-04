@@ -1,0 +1,7 @@
+
+train: /content/drive/MyDrive/Face_mask_project/data/train_oversampled/images
+val: /content/drive/MyDrive/Face_mask_project/data/val/images
+test: /content/drive/MyDrive/Face_mask_project/data/test/images
+
+nc: 3
+names: ['with_mask','without_mask','mask_weared_incorrect']
